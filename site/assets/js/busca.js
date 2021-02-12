@@ -17,7 +17,6 @@ window.addEventListener("load", function () {
 
         function cancelPropagation(event) {
             event.stopPropagation();
-            console.log("fdsadf");
         }
 
         function setupCloseSearch() {
